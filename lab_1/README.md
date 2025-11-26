@@ -13,7 +13,7 @@ lab01/
 │
 ├── README.md                          # Этот файл
 ├── Lab01.pdf                          # Задание к лабораторной работе
-├── lab01_solution.ipynb               # Jupyter Notebook с решением
+├── lab1.ipynb                         # Jupyter Notebook с решением
 │
 └── data/                              # Папка с данными
     ├── global-electricity-generation.csv
